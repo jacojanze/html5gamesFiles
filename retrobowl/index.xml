@@ -1,4 +1,8 @@
-
+<Module>
+<ModulePrefs title="Retro Bowl"/>
+<Content type="html">
+<![CDATA[
+    
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -124,3 +128,8 @@
 
     </body>
 </html>
+
+]]>
+</Content>
+</Module>
+

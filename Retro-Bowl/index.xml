@@ -13,7 +13,6 @@
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         <meta charset="utf-8"/>
 
-        <link rel="shortcut icon" type="image/png" href="../img/icon.png">
         <title>Retro Bowl</title>
 
         <style>
@@ -75,14 +74,14 @@
 
     <body>
         <div class="gm4html5_div_class" id="gm4html5_div_id">
-        <img src="html5game/splash.png" id="GM4HTML5_loadingscreen" alt="GameMaker:HTML5 loading screen" style="display:none;"/>
+        <img src="https://cdn.jsdelivr.net/gh/jacojanze/html5gamesFiles@master/Retro-Bowl/html5game/splash.png" id="GM4HTML5_loadingscreen" alt="GameMaker:HTML5 loading screen" style="display:none;"/>
             <canvas id="canvas" width="853" height="480">
                      <p>Your browser doesn't support HTML5 canvas.</p>
             </canvas>
         </div>
 
 
-        <script type="text/javascript" src="html5game/RetroBowl.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/jacojanze/html5gamesFiles@master/Retro-Bowl/html5game/RetroBowl.js"></script>
 
 
 <script>(function() {

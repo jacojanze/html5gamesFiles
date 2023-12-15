@@ -1,3 +1,8 @@
+<Module>
+<ModulePrefs title="YoHoHo.io"/>
+<Content type="html">
+<![CDATA[ 
+
 <!DOCTYPE html>
 <!-- saved from url=(0018)https://yohoho.io/ -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link href="./YoHoHo.io - pirate battle royale io game_files/default.css" rel="stylesheet" type="text/css" id="doorbell-css-extra"><link href="./YoHoHo.io - pirate battle royale io game_files/doorbell.min.css" rel="stylesheet" type="text/css" id="doorbell-css-document">
@@ -477,3 +482,6 @@
 
 
                                         <div class="buttons"><button class="btn btn-primary" id="doorbell-submit-button">Send</button></div>                </fieldset>                <a href="https://doorbell.io/?utm_source=feedback_form&amp;utm_medium=web_sdk&amp;utm_campaign=application_10008" target="_blank" rel="noopener noreferrer" id="doorbell-powered-by">Powered by Doorbell.io</a>                            </form></div></div></body></html>
+ ]]>
+</Content>
+</Module>
